@@ -9,29 +9,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: 語言與運動
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: 第一語言
+  icon:
+  icon_pack:
+  name: 普通話
+- description: 第二語言
+  icon:
+  icon_pack:
+  name: 廣東話
+- description: 基礎（平時考試滿分）
+  icon:
+  icon_pack:
+  name: 英語
+- description: 在澳門青少年足球學校訓練
   icon: futbol
   icon_pack: fas
   name: 足球
-- description: 
-  icon: chess-board
-  icon_pack: fas
-  name: 圍棋
-- description: 
+- description: 會蛙泳
   icon: swimmer
   icon_pack: fas
   name: 游泳
-- description: 
-  icon: tennis-ball
+- description: 持續學習中
+  icon: chess-board
   icon_pack: fas
-  name: 網球
+  name: 圍棋
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

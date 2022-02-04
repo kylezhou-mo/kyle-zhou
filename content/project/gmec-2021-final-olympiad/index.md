@@ -31,5 +31,7 @@ slides: ""
 ---
 
 全球數學精英賽 2021 決賽 奧數組 銅獎（幼兒組）
+
 GMEC International Final 2021 - Olympiad Mathematics Bronze (K2)
+
 [得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2021/0930/286.html)

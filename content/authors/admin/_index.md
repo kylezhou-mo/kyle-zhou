@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 周汀揚 ZHOU TENG IEONG
+title: 周汀揚
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://www.asum.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 永遠保持對世界的好奇心，持續探索學習~
 
 # Interests to show in About widget
 interests:
@@ -56,4 +56,4 @@ email: ""
 highlight_name: true
 ---
 
-老師您好！我叫周汀揚，是一名K3年級的學生。我有一位很會編程的爸爸，一位講英語葡語很好的媽媽，在他們的輔導下，我的成績一直都很優異，還在多個數學比賽獲獎。除了學習，我也熱愛各種課外活動，目前在青少年足球學校練習踢球，還正在學圍棋。除了這些，我也會游泳、網球、兵乓球等運動。體育活動之外，我也會經常參加各類填色、畫圖等活動，聼音樂會等等陶冶情操。
+老師您好！我叫周汀揚，是一名K3年級的學生。我有一位很會編程的爸爸，一位講英語葡語很好的媽媽，在他們的輔導下，我的成績一直都很優異，還在多個數學比賽獲獎。除了學習，我也熱愛各種課外活動，目前在澳門青少年足球學校練習踢球，還正在學圍棋。除了這些，我也會游泳、網球、兵乓球等運動。體育活動之外，我也會經常參加各類填色、畫圖等活動，聼音樂會等等陶冶情操。

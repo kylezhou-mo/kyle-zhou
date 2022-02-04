@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 課餘生活
 cms_exclude: true
 
 # View.
