@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: 語言與運動
 subtitle:
@@ -32,7 +32,7 @@ feature:
   icon: futbol
   icon_pack: fas
   name: 足球
-- description: 會蛙泳
+- description: 能蛙式游泳
   icon: swimmer
   icon_pack: fas
   name: 游泳
