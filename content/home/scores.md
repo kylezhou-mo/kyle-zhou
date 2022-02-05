@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: 測驗成績
-subtitle:
+subtitle: Scores
 
 design:
   columns: '2'

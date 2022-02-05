@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: 語言與運動
-subtitle:
+subtitle: Skills
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -24,7 +24,7 @@ feature:
   icon:
   icon_pack:
   name: 廣東話
-- description: 基礎（平時考試滿分）
+- description: 簡單對話、自然拼讀法
   icon:
   icon_pack:
   name: 英語

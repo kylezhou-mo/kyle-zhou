@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: 課餘生活
-subtitle:
+subtitle: Posts
 
 content:
   # Filter on criteria

@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: 獎勵及證書
-subtitle: ''
+subtitle: Awards
 
 content:
   # Page type to display. E.g. project.
