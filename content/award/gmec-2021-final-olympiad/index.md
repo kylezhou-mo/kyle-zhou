@@ -1,9 +1,9 @@
 ---
-title: 數學思維大激鬥 2021年度「個人賽」銅獎（幼兒組）
-summary: Math Conceptition 2021 Individual Bronze (K2)
+title: 🥉全球數學精英賽 2021 決賽 奧數組 銅獎（幼兒組）
+summary: GMEC International Final 2021 - Olympiad Mathematics Bronze (K2)
 tags:
 - Mathematics
-date: "2021-05-03T00:00:00Z"
+date: "2021-09-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,8 +30,8 @@ url_video: ""
 slides: ""
 ---
 
-數學思維大激鬥 2021年度「個人賽」銅獎（幼兒組）
+全球數學精英賽 2021 決賽 奧數組 銅獎（幼兒組）
 
-Math Conceptition 2021 Individual Bronze (K2)
+GMEC International Final 2021 - Olympiad Mathematics Bronze (K2)
 
-[得獎名單 See certificate](https://mathconceptition.com/news/70.html)
+[得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2021/0930/286.html)

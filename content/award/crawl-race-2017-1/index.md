@@ -1,9 +1,10 @@
 ---
-title: 全球數學精英賽 2021 決賽 數學組 銅獎（幼兒組）
-summary: GMEC International Final 2021 - Mathematics Bronze (K2)
+title: 🥇「第十八届」精叻BB爬行比賽 冠軍
+summary: Smart BB Crawling Competition Champion Winner
 tags:
-- Mathematics
-date: "2021-09-30T00:00:00Z"
+- Crawl
+- Race
+date: "2017-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,8 +31,4 @@ url_video: ""
 slides: ""
 ---
 
-全球數學精英賽 2021 決賽 數學組 銅獎（幼兒組）
-
-GMEC International Final 2021 - Mathematics Bronze (K2)
-
-[得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2021/0930/286.html)
+「第十八届」精叻BB爬行比賽：冠軍

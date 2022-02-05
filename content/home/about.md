@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 周汀揚&shy;ZHOU TENG IEONG
+title: '周汀揚&shy;ZHOU TENG IEONG'
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

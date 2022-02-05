@@ -1,15 +1,15 @@
 ---
-title: 全球數學精英賽 2021 決賽 奧數組 銅獎（幼兒組）
-summary: GMEC International Final 2021 - Olympiad Mathematics Bronze (K2)
+title: 🥉世界數學邀請賽 2022 初賽 銅獎（幼兒組）
+summary: World Mathematics Invitational Preliminary 2022 Bronze (Kindergarten)
 tags:
 - Mathematics
-date: "2021-09-30T00:00:00Z"
+date: "2022-01-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 獎狀
+  caption: 尚未收到獎狀
   focal_point: Smart
 
 links:
@@ -30,8 +30,8 @@ url_video: ""
 slides: ""
 ---
 
-全球數學精英賽 2021 決賽 奧數組 銅獎（幼兒組）
+世界數學邀請賽 2022 初賽 銅獎（幼兒組）
 
-GMEC International Final 2021 - Olympiad Mathematics Bronze (K2)
+World Mathematics Invitational Preliminary 2022 Bronze (Kindergarten)
 
-[得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2021/0930/286.html)
+[得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2022/0106/306.html)

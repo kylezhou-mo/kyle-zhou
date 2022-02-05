@@ -1,9 +1,10 @@
 ---
-title: 世界數學邀請賽 2022 初賽 銅獎（幼兒組）
-summary: World Mathematics Invitational Preliminary 2022 Bronze (Kindergarten)
+title: 🥇「第十届孕嬰兒用品展」活潑BB爬行比賽 冠軍
+summary: Lively BB Crawling Competition Champion Winner
 tags:
-- Mathematics
-date: "2022-01-06T00:00:00Z"
+- Crawl
+- Race
+date: "2017-07-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,8 +31,4 @@ url_video: ""
 slides: ""
 ---
 
-世界數學邀請賽 2022 初賽 銅獎（幼兒組）
-
-World Mathematics Invitational Preliminary 2022 Bronze (Kindergarten)
-
-[得獎名單 See certificate](http://www.firsteducation.hk/a/19/120/2022/0106/306.html)
+「第十届孕嬰兒用品展」活潑BB爬行比賽：冠軍
