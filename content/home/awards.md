@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Mathematics
     tag: Mathematics
-  - name: Other
-    tag: Demo
+  - name: Race
+    tag: Race
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

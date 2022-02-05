@@ -39,7 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:kira_zhouzz@hotmail.com'
+- icon: phone
+  icon_pack: fas
+  link: 'tel:853 62696897'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -55,5 +58,7 @@ email: ""
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 highlight_name: true
 ---
+
+## ZHOU TENG IEONG
 
 老師您好！我叫周汀揚，是一名K3年級的學生。我有一位很會編程的爸爸，一位講英語葡語很好的媽媽，在他們的輔導下，我的成績一直都很優異，還在多個數學比賽獲獎。除了學習，我也熱愛各種課外活動，目前在澳門青少年足球學校練習踢球，還正在學圍棋。除了這些，我也會游泳、網球、兵乓球等運動。體育活動之外，我也會經常參加各類填色、畫圖等活動，聼音樂會等等陶冶情操。
