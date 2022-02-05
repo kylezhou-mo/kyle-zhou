@@ -3,7 +3,7 @@ title: 國慶70周年回歸20周年音樂會
 subtitle: 
 
 # Summary for listings and search engines
-summary: 汀揚第一次去聼音樂會，現場表現很乖。
+summary: 第一次去音樂會，很認真地聆聽革命先烈們壯烈戰鬥的旋律。
 
 # Link this post with a project
 projects: []
@@ -39,6 +39,4 @@ categories:
 - 音樂會
 ---
 
-汀揚第一次去聼音樂會，現場表現很乖。
-
-聆聽革命先烈們壯烈戰鬥的旋律！
+第一次去音樂會，很認真地聆聽革命先烈們壯烈戰鬥的旋律。

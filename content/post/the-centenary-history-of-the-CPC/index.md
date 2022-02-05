@@ -3,7 +3,7 @@ title: 中國共產黨的100年圖片展
 subtitle: 
 
 # Summary for listings and search engines
-summary: 參觀中國共產黨的100年圖片展
+summary: 通過參觀展會圖片及聽取解説姐姐的介紹，學習中國的近代歷史情況。
 
 # Link this post with a project
 projects: []
@@ -38,4 +38,4 @@ categories:
 - 課餘生活
 ---
 
-參觀中國共產黨的100年圖片展，現場聽取解説姐姐的介紹，學習中國的近代歷史。
+通過參觀展會圖片及聽取解説姐姐的介紹，學習中國的近代歷史情況。
