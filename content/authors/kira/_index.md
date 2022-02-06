@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["Family"]
 
 # Role/position/tagline
-role: 英語葡語很好, 小學教育文憑, CPA
+role: 英語葡語很好, 曾任小學教師, CPA
 
 # Organizations/Affiliations to show in About widget
 organizations:

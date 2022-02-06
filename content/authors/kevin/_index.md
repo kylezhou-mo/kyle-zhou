@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["Family"]
 
 # Role/position/tagline
-role: 精通編程的金融科技工作者
+role: 精通編程, 能輔導小朋友 Scratch 與 Python
 
 # Organizations/Affiliations to show in About widget
 organizations:
