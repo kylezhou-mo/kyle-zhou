@@ -5,6 +5,8 @@ title: 周汀揚
 # Is this the primary user of the site?
 superuser: true
 
+user_groups: ["Applicant"]
+
 # Role/position/tagline
 role: K3（高班）學生
 

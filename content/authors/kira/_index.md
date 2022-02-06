@@ -5,7 +5,7 @@ title: Kira Zhou (母親)
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: Family
+user_groups: ["Family"]
 
 # Role/position/tagline
 role: 英語葡語很好, 小學教育文憑, CPA

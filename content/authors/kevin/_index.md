@@ -5,7 +5,7 @@ title: Kevin Ding (父親)
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: Family
+user_groups: ["Family"]
 
 # Role/position/tagline
 role: 精通編程的金融科技工作者
