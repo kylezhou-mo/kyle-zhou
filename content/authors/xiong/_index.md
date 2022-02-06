@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["Family"]
 
 # Role/position/tagline
-role: 領國務院津貼, 接送小朋友
+role: 國務院津貼專家, 接送小朋友
 
 # Organizations/Affiliations to show in About widget
 organizations:
