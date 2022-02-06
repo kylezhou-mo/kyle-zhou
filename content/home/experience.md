@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 課外培訓
+title: 興趣班
 subtitle: Courses
 
 # Date format for experience
@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: 青少年足球初班
     company: 澳門青少年足球學校
-    company_url: 'https://www.sport.gov.mo/zh/footballts'
+    company_url: ''
     company_logo: gov-id
     location: 澳門氹仔
     date_start: '2022-01-15'

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "周汀揚的簡歷"
+title = ""
 subtitle = ""
 
 [design]
@@ -50,6 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 歡迎您
-
-周汀揚的簡歷
+## 歡迎您來到周汀揚的簡歷 👋
