@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhou Dongxiong (外公)
+title: 外公
 
 # Is this the primary user of the site?
 superuser: false
