@@ -59,8 +59,8 @@ experience:
     company_url: ''
     company_logo: first-code-academy
     location: 澳門氹仔
-    date_start: '2020-12-31'
-    date_end: '2020-11-01'
+    date_start: '2020-11-01'
+    date_end: '2020-12-31'
 
 design:
   columns: '2'
