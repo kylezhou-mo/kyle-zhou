@@ -3,7 +3,7 @@ widget: people
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-weight: 100
+weight: 90
 title: 家庭成員
 subtitle: Family Members
 
