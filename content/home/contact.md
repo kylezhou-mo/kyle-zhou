@@ -28,5 +28,3 @@ content:
 design:
   columns: '2'
 ---
-
-### 感謝您的審閲，您辛苦了！
