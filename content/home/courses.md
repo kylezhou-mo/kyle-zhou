@@ -54,7 +54,7 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-06-30'
   
-  - title: 編程班及數學班
+  - title: 編程啓蒙
     company: 拓思編程教育中心
     company_url: ''
     company_logo: first-code-academy
