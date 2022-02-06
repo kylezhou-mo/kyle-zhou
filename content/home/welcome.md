@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = ""
+title = "歡迎您 👋"
 subtitle = ""
 
 [design]
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#63C6AE"
+  # color = "#63C6AE"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -34,6 +34,7 @@ subtitle = ""
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "background.jpg"
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -50,4 +51,3 @@ subtitle = ""
  css_class = ""
 +++
 
-## 歡迎您來到周汀揚的簡歷 👋
