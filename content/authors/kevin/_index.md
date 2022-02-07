@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kevin Ding (父親)
+title: 父親 Kevin
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["Family"]
 
 # Role/position/tagline
-role: 精通編程, 能輔導 Scratch Python
+role: 編程高手, 能輔導 Scratch Python
 
 # Organizations/Affiliations to show in About widget
 organizations:

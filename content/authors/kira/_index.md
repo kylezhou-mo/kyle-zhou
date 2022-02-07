@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kira Zhou (母親)
+title: 母親 Kira
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["Family"]
 
 # Role/position/tagline
-role: 英語葡語很好, 曾任小學教師, CPA
+role: 小學教育學士後, CPA, 英語葡語好
 
 # Organizations/Affiliations to show in About widget
 organizations:

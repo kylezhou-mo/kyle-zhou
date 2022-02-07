@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 外公
+title: 外祖父
 
 # Is this the primary user of the site?
 superuser: false
