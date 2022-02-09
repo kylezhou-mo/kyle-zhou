@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 課餘生活
+title: 社會活動
 subtitle: Posts
 
 content:

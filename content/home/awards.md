@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 獎勵及證書
+title: 榮譽及獎勵
 subtitle: Awards
 
 content:

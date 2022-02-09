@@ -11,7 +11,7 @@ copyright: '© {year} Zhou Teng Ieong' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh-hant
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 語言與運動
+title: 語言及特長
 subtitle: Skills
 
 # Showcase personal skills or business features.
