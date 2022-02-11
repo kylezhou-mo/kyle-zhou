@@ -21,6 +21,5 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+
 ---

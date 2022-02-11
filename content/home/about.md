@@ -19,8 +19,4 @@ title: 周汀揚<br>ZHOU TENG IEONG
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-design.background:
-  gradient_start = "#709dc6"
-  gradient_end = "#f4f8e9"
-
 ---
