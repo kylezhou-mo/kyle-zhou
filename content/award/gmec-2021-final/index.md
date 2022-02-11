@@ -1,5 +1,5 @@
 ---
-title: 🥉 全球數學精英賽 2021 決賽 數學組 銅獎（幼兒組）
+title: 🏆 全球數學精英賽 2021 決賽 數學組 銅獎（幼兒組）
 summary: GMEC International Final 2021 - Mathematics Bronze (K2)
 tags:
 - Mathematics

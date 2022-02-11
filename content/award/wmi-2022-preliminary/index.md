@@ -1,5 +1,5 @@
 ---
-title: 🥉 世界數學邀請賽 2022 初賽 銅獎（幼兒組）
+title: 🏆 世界數學邀請賽 2022 初賽 銅獎（幼兒組）
 summary: World Mathematics Invitational Preliminary 2022 Bronze (Kindergarten)
 tags:
 - Mathematics

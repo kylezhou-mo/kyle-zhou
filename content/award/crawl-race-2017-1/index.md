@@ -1,5 +1,5 @@
 ---
-title: 🥇 第十八届精叻BB爬行比賽 冠軍
+title: 🏆 第十八届精叻BB爬行比賽 冠軍
 summary: Smart BB Crawling Competition Champion Winner
 tags:
 - Crawl

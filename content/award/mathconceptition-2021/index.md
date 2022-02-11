@@ -1,5 +1,5 @@
 ---
-title: 🥉 數學思維大激鬥 2021年度「個人賽」銅獎（幼兒組）
+title: 🏆 數學思維大激鬥 2021年度「個人賽」銅獎（幼兒組）
 summary: Math Conceptition 2021 Individual Bronze (K2)
 tags:
 - Mathematics
