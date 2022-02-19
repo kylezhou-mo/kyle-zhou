@@ -1,18 +1,18 @@
 ---
-title: 國慶70周年回歸20周年音樂會
+title: 法律加油站-齊來認識基本法工作坊
 subtitle: 
 
 # Summary for listings and search engines
-summary: 第一次去音樂會，十分認真地聆聽革命先烈們壯烈戰鬥的旋律，現場感受國家象徵的歌曲。
+summary: 參加工作坊學到了基本法的幾項重要概念
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2019-12-02T00:00:00Z"
+date: "2022-02-19T00:00:00Z"
 
 # Date updated
-lastmod: "2019-12-02T00:00:00Z"
+lastmod: "2022-02-19T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,11 +32,11 @@ authors:
 - admin
 
 tags:
-- Concert
+- Workshop
 
 categories:
 - 課餘生活
-- 音樂會
+- 工作坊
 ---
 
-第一次去音樂會，十分認真地聆聽革命先烈們壯烈戰鬥的旋律，現場感受國家象徵的歌曲。
+參加了法律加油站-兒童積木工作坊「齊來認識基本法—澳門的正式語文」，學到了基本法的幾項重要概念。
