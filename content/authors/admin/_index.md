@@ -8,12 +8,12 @@ superuser: true
 user_groups: ["Applicant"]
 
 # Role/position/tagline
-role: K3（高班）學生
+role: P1（小一）學生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 澳門大學附屬應用學校幼稚園
-  url: https://www.asum.edu.mo/
+- name: 澳門培正中學
+  url: http://www.puiching.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 永遠保持對世界的好奇心，持續探索學習~
