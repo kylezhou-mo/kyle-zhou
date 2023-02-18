@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: All of Me
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 英文朗誦
+#event_url: https://example.org
 
 location: 家中
 #address:
