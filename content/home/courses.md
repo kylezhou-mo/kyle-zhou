@@ -22,14 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 圍棋啓蒙班
-    company: 寶寶學堂教育中心
-    company_url: ''
-    company_logo: baby-academy
-    location: 澳門氹仔
-    date_start: '2022-01-16'
-    date_end: ''
-
   - title: 青少年足球初班
     company: 澳門青少年足球學校
     company_url: ''
@@ -37,14 +29,22 @@ experience:
     location: 澳門氹仔
     date_start: '2022-01-15'
     date_end: ''
-  
+
+  - title: 圍棋啓蒙班
+    company: 寶寶學堂教育中心
+    company_url: ''
+    company_logo: baby-academy
+    location: 澳門氹仔
+    date_start: '2022-01-16'
+    date_end: '2023-02-12'
+
   - title: 大眾體育健身興趣班-兒童體操
     company: 體育局
     company_url: ''
     company_logo: gov-id
     location: 澳門氹仔
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2022-06-30'
 
   - title: 大眾體育健身興趣班-親子網球
     company: 體育局
