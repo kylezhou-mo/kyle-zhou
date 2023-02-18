@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: 《龜兔賽跑》
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 粵語講故事
+#event_url: https://example.org
 
 location: 家中
 #address:
