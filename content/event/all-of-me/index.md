@@ -42,7 +42,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/1a06QO9oeNI"
+url_video: "https://www.youtube.com/shorts/sHUx4FjPPfs"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,4 +60,4 @@ url_video: "https://youtu.be/1a06QO9oeNI"
 #- example
 ---
 
-{{< youtube 1a06QO9oeNI >}}
+{{< youtube sHUx4FjPPfs >}}
