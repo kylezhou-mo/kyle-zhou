@@ -44,7 +44,7 @@ social:
   link: https://kylezhou-mo.github.io/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/@kevinmacau
+  link: https://www.youtube.com/@kylemacau
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
