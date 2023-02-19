@@ -42,6 +42,9 @@ social:
 - icon: blog
   icon_pack: fas
   link: https://kylezhou-mo.github.io/
+- icon: youtube
+  icon_pack: fas
+  link: https://www.youtube.com/@kevinmacau
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
