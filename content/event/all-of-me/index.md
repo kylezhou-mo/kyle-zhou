@@ -12,20 +12,20 @@ location: 家中
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 英文朗讀《All of Me》
+abstract: "In this article, we learned about all of me and parts of body poems for kindergarten Both of these poems were very inspirational, as we all needed a reminder of how important it is to love yourself. The main idea of this poem is that you should be proud of your body and yourself no matter what society might say or think."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-11-28T12:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-28T00:00:00Z"
 
 authors: []
-tags: []
+tags: [poem]
 
 # Is this a featured talk? (true/false)
 featured: false
