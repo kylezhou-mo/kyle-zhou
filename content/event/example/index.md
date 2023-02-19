@@ -13,7 +13,7 @@ location: 家中
 #  country: United States
 
 summary: 中文講故事《龜兔賽跑》
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "《龟兔赛跑》，是一则耐人寻味的寓言故事，故事中塑造了一只骄傲的兔子和一只坚持不懈的小乌龟。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
