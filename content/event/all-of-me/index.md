@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2022-11-28T00:00:00Z"
 
 authors: []
-tags: [poem]
+tags: [Poem]
 
 # Is this a featured talk? (true/false)
 featured: false
