@@ -1,5 +1,5 @@
 ---
-title: 《龜兔賽跑》
+title: 龜兔賽跑
 
 event: 粵語講故事
 #event_url: https://example.org
