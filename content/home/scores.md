@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 55
 
 title: 測驗成績
 subtitle: Scores
